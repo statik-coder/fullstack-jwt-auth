@@ -1,4 +1,4 @@
-# Fulstack JWT Authorization
+# Fullstack JWT Authorization
 
 JWt fullstack authorization project with using cookies and 2 token types (studying)
 
